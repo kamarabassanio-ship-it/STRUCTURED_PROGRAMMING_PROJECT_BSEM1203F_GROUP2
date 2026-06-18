@@ -1,0 +1,17 @@
+2026-06-14 21:47:18,839 - INFO - Database initialized with sample data (25 students)
+2026-06-14 21:47:35,334 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-14 21:47:35,335 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-14 22:03:18,598 - INFO - Database initialized - file created: school_data.db
+2026-06-14 22:04:07,376 - INFO - Database initialized - file created: school_data.db
+2026-06-14 22:18:03,651 - INFO - Database initialized
+2026-06-14 22:35:09,184 - INFO - Database initialized with 25 students
+2026-06-14 22:35:24,349 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-14 22:35:24,350 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-14 22:39:01,946 - INFO - Database initialized with 25 students
+2026-06-14 22:42:11,745 - INFO - Database initialized with 25 students
+2026-06-14 22:48:03,458 - INFO - Database initialized with 25 students
+2026-06-14 22:52:23,725 - INFO - Saved student STU20250026 by admin
+2026-06-14 22:54:16,102 - INFO - Saved student dbhvhv by admin
+2026-06-15 15:59:04,661 - INFO - Database initialized with 25 students
+2026-06-15 16:04:03,024 - INFO - Database initialized with 25 students
+2026-06-15 16:17:47,832 - INFO - Database initialized with 25 students
