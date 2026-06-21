@@ -877,4 +877,4 @@ class MainApplication:
 if __name__ == "__main__":
     init_database()
     app = LoginWindow()
-    app.run()
+    app.run()   
